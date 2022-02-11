@@ -1,8 +1,9 @@
 Para fazer alterações no código
+  
   git clone https://github.com/The-Mini-Tank/snake-game-java.git
   ( Isso vai copiar os repositório na sua máquina local )
-
 Após fazer as alterações
+  
   git remote add origin https://github.com/The-Mini-Tank/snake-game-java.git
   ( Adicionar repositório remoto designado como origin )
   
