@@ -3,7 +3,7 @@ Para fazer alterações no código:
   ( Isso vai copiar os repositório na sua máquina local )
 
 Após fazer as alterações:
-  [git remote add origin] https://github.com/The-Mini-Tank/snake-game-java.git
+  git remote add origin https://github.com/The-Mini-Tank/snake-game-java.git
   ( Adicionar repositório remoto designado como origin )
   
   git commit -m "comentário de alteração"
