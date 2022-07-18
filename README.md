@@ -1,14 +1,7 @@
-Para fazer alterações no código
-  
-  git clone https://github.com/The-Mini-Tank/snake-game-java.git
-  ( Isso vai copiar os repositório na sua máquina local )
+■■■■■■■■□ ● ● ● <h2> Snake Game </h2>
+With a IA path generation, if the snake follow the path rules, it will never collide itself, and will surely win the game. \
+The size of the map can only be incremented exponentially, because of the IA path, you just need to change the var -map_size-. \
+\
+A version with a pathfind already exists, i'll be upload that version someday.
+<hr>
 
-  
-  git remote add origin https://github.com/The-Mini-Tank/snake-game-java.git
-  ( Adicionar repositório remoto designado como origin )
-  
-  git commit -m "comentário de alteração"
-  ( Salvar alterações no código )
-  
-  git push -u origin main/master
-  ( Enviar alterações para o repositório remoto, no branch main ou master )
